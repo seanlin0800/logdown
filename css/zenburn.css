@@ -1,8 +1,8 @@
 figure.code pre  { color:#fdce93; background-color:#3f3f3f  !important; }
-.highlight pre code, .highlight pre { color:#fdce93;background-color:#3f3f3f !important; }
+.highlight pre code, .highlight pre { color:#fdce93; background-color:#3f3f3f !important; }
 .highlight pre .hll { background-color:#222 !important; }
-.highlight pre .c { color:#7f9f7f !important; }
-.highlight pre .err { color:#e37170;background-color:#3d3535 !important; }
+.highlight pre .c { color:#7f9f7f !important; display: inline-block !important; }
+.highlight pre .err { color:#e37170; background-color:#3d3535 !important; }
 .highlight pre .g { color:#7f9f7f !important; }
 .highlight pre .k { color:#f0dfaf !important; }
 .highlight pre .l { color:#ccc !important; }
@@ -13,20 +13,20 @@ figure.code pre  { color:#fdce93; background-color:#3f3f3f  !important; }
 .highlight pre .cm { color:#7f9f7f !important; }
 .highlight pre .cp { color:#7f9f7f !important; }
 .highlight pre .c1 { color:#7f9f7f !important; }
-.highlight pre .cs { color:#cd0000;font-weight:bold !important; }
+.highlight pre .cs { color:#cd0000; font-weight:bold !important; }
 .highlight pre .gd { color:#cd0000 !important; }
-.highlight pre .ge { color:#ccc;font-style:italic !important; }
+.highlight pre .ge { color:#ccc; font-style:italic !important; }
 .highlight pre .gr { color:red !important; }
 .highlight pre .gh { color:#dcdccc;font-weight:bold !important; }
 .highlight pre .gi { color:#00cd00 !important; }
 .highlight pre .go { color:gray !important; }
-.highlight pre .gp { color:#dcdccc;font-weight:bold !important; }
-.highlight pre .gs { color:#ccc;font-weight:bold !important; }
-.highlight pre .gu { color:purple;font-weight:bold !important; }
+.highlight pre .gp { color:#dcdccc; font-weight:bold !important; }
+.highlight pre .gs { color:#ccc; font-weight:bold !important; }
+.highlight pre .gu { color:purple; font-weight:bold !important; }
 .highlight pre .gt { color:#0040D0 !important; }
 .highlight pre .kc { color:#dca3a3 !important; }
 .highlight pre .kd { color:#ffff86 !important; }
-.highlight pre .kn { color:#dfaf8f;font-weight:bold !important; }
+.highlight pre .kn { color:#dfaf8f; font-weight:bold !important; }
 .highlight pre .kp { color:#cdcf99 !important; }
 .highlight pre .kr { color:#cdcd00 !important; }
 .highlight pre .kt { color:#00cd00 !important; }
